@@ -1,1 +1,2 @@
 Hello from Steve's first commit
+Second line: learning git diff
